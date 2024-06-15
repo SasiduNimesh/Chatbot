@@ -1,2 +1,6 @@
 # Chatbot
-Chatbot
+<p>The chatbot built with HTML, CSS and JavaScript that uses OpenAI's API engine to generate responses.</p>
+<P>HTML: Defines the structure of the chat interface.<br>
+CSS: Styles the chat interface for a better user experience.<br>
+JavaScript: Manages user interactions, sends messages to the backend API, and updates the UI with responses.<br>
+API: Provides the chatbot functionality by processing user input and generating responses.</P>
